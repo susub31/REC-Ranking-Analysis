@@ -1,0 +1,188 @@
+Institution_Name,Alt_Name,Overall_Rank,Category,Sub_Category,Total_Points,Earned_Points
+"Indian institute of Technology, Madras",IIT-M,1,TLR,SS,20,18.5
+"Indian institute of Technology, Madras",IIT-M,1,TLR,FSR,30,30
+"Indian institute of Technology, Madras",IIT-M,1,TLR,FQE,20,18.43
+"Indian institute of Technology, Madras",IIT-M,1,TLR,FRU,30,26.9
+"Indian institute of Technology, Madras",IIT-M,1,RP,PU,35,34.01
+"Indian institute of Technology, Madras",IIT-M,1,RP,QP,40,35.93
+"Indian institute of Technology, Madras",IIT-M,1,RP,IPR,15,13
+"Indian institute of Technology, Madras",IIT-M,1,RP,FPPP,10,8.51
+"Indian institute of Technology, Madras",IIT-M,1,GO,GPHE,40,32.62
+"Indian institute of Technology, Madras",IIT-M,1,GO,GUE,15,15
+"Indian institute of Technology, Madras",IIT-M,1,GO,MS,25,21.1
+"Indian institute of Technology, Madras",IIT-M,1,GO,GPHD,20,16.19
+"Indian institute of Technology, Madras",IIT-M,1,OI,RD,30,21.96
+"Indian institute of Technology, Madras",IIT-M,1,OI,WD,30,13.35
+"Indian institute of Technology, Madras",IIT-M,1,OI,ESCS,20,8.57
+"Indian institute of Technology, Madras",IIT-M,1,OI,PCS,20,20
+"Indian institute of Technology, Madras",IIT-M,1,PR,PREMP,100,100
+"Indian institute of Technology, Bombay",IIT-B,2,TLR,SS,20,18.5
+"Indian institute of Technology, Bombay",IIT-B,2,TLR,FSR,30,28.25
+"Indian institute of Technology, Bombay",IIT-B,2,TLR,FQE,20,19.21
+"Indian institute of Technology, Bombay",IIT-B,2,TLR,FRU,30,23.65
+"Indian institute of Technology, Bombay",IIT-B,2,RP,PU,35,35
+"Indian institute of Technology, Bombay",IIT-B,2,RP,QP,40,36.61
+"Indian institute of Technology, Bombay",IIT-B,2,RP,IPR,15,15
+"Indian institute of Technology, Bombay",IIT-B,2,RP,FPPP,10,9.43
+"Indian institute of Technology, Bombay",IIT-B,2,GO,GPHE,40,24.99
+"Indian institute of Technology, Bombay",IIT-B,2,GO,GUE,15,14.07
+"Indian institute of Technology, Bombay",IIT-B,2,GO,MS,25,19.87
+"Indian institute of Technology, Bombay",IIT-B,2,GO,GPHD,20,17.6
+"Indian institute of Technology, Bombay",IIT-B,2,OI,RD,30,20.83
+"Indian institute of Technology, Bombay",IIT-B,2,OI,WD,30,10.67
+"Indian institute of Technology, Bombay",IIT-B,2,OI,ESCS,20,6.22
+"Indian institute of Technology, Bombay",IIT-B,2,OI,PCS,20,7
+"Indian institute of Technology, Bombay",IIT-B,2,PR,PREMP,100,93.48
+"Indian institute of Technology, Delhi",IIT-D,3,TLR,SS,20,17.21
+"Indian institute of Technology, Delhi",IIT-D,3,TLR,FSR,30,24.67
+"Indian institute of Technology, Delhi",IIT-D,3,TLR,FQE,20,15.81
+"Indian institute of Technology, Delhi",IIT-D,3,TLR,FRU,30,23.44
+"Indian institute of Technology, Delhi",IIT-D,3,RP,PU,35,34.71
+"Indian institute of Technology, Delhi",IIT-D,3,RP,QP,40,38.69
+"Indian institute of Technology, Delhi",IIT-D,3,RP,IPR,15,9
+"Indian institute of Technology, Delhi",IIT-D,3,RP,FPPP,10,6.95
+"Indian institute of Technology, Delhi",IIT-D,3,GO,GPHE,40,28.54
+"Indian institute of Technology, Delhi",IIT-D,3,GO,GUE,15,13.51
+"Indian institute of Technology, Delhi",IIT-D,3,GO,MS,25,22.33
+"Indian institute of Technology, Delhi",IIT-D,3,GO,GPHD,20,17.1
+"Indian institute of Technology, Delhi",IIT-D,3,OI,RD,30,22.03
+"Indian institute of Technology, Delhi",IIT-D,3,OI,WD,30,13.15
+"Indian institute of Technology, Delhi",IIT-D,3,OI,ESCS,20,4.54
+"Indian institute of Technology, Delhi",IIT-D,3,OI,PCS,20,20
+"Indian institute of Technology, Delhi",IIT-D,3,PR,PREMP,100,88.6
+"Indian institute of Technology, Kharaghpur",IIT-Kh,4,TLR,SS,20,18.07
+"Indian institute of Technology, Kharaghpur",IIT-Kh,4,TLR,FSR,30,23.27
+"Indian institute of Technology, Kharaghpur",IIT-Kh,4,TLR,FQE,20,15.19
+"Indian institute of Technology, Kharaghpur",IIT-Kh,4,TLR,FRU,30,17.2
+"Indian institute of Technology, Kharaghpur",IIT-Kh,4,RP,PU,35,33.44
+"Indian institute of Technology, Kharaghpur",IIT-Kh,4,RP,QP,40,40
+"Indian institute of Technology, Kharaghpur",IIT-Kh,4,RP,IPR,15,7
+"Indian institute of Technology, Kharaghpur",IIT-Kh,4,RP,FPPP,10,3.82
+"Indian institute of Technology, Kharaghpur",IIT-Kh,4,GO,GPHE,40,29.59
+"Indian institute of Technology, Kharaghpur",IIT-Kh,4,GO,GUE,15,14.15
+"Indian institute of Technology, Kharaghpur",IIT-Kh,4,GO,MS,25,21.91
+"Indian institute of Technology, Kharaghpur",IIT-Kh,4,GO,GPHD,20,22
+"Indian institute of Technology, Kharaghpur",IIT-Kh,4,OI,RD,30,21.38
+"Indian institute of Technology, Kharaghpur",IIT-Kh,4,OI,WD,30,9.44
+"Indian institute of Technology, Kharaghpur",IIT-Kh,4,OI,ESCS,20,3.18
+"Indian institute of Technology, Kharaghpur",IIT-Kh,4,OI,PCS,20,20
+"Indian institute of Technology, Kharaghpur",IIT-Kh,4,PR,PREMP,100,78.51
+"Indian institute of Technology, Kanpur",IIT-K ,5,TLR,SS,20,17.09
+"Indian institute of Technology, Kanpur",IIT-K ,5,TLR,FSR,30,24.49
+"Indian institute of Technology, Kanpur",IIT-K ,5,TLR,FQE,20,16.59
+"Indian institute of Technology, Kanpur",IIT-K ,5,TLR,FRU,30,20.33
+"Indian institute of Technology, Kanpur",IIT-K ,5,RP,PU,35,29.44
+"Indian institute of Technology, Kanpur",IIT-K ,5,RP,QP,40,31.35
+"Indian institute of Technology, Kanpur",IIT-K ,5,RP,IPR,15,10
+"Indian institute of Technology, Kanpur",IIT-K ,5,RP,FPPP,10,6.36
+"Indian institute of Technology, Kanpur",IIT-K ,5,GO,GPHE,40,28.34
+"Indian institute of Technology, Kanpur",IIT-K ,5,GO,GUE,15,10.67
+"Indian institute of Technology, Kanpur",IIT-K ,5,GO,MS,25,24.14
+"Indian institute of Technology, Kanpur",IIT-K ,5,GO,GPHD,20,15.83
+"Indian institute of Technology, Kanpur",IIT-K ,5,OI,RD,30,16.55
+"Indian institute of Technology, Kanpur",IIT-K ,5,OI,WD,30,7.92
+"Indian institute of Technology, Kanpur",IIT-K ,5,OI,ESCS,20,8
+"Indian institute of Technology, Kanpur",IIT-K ,5,OI,PCS,20,9
+"Indian institute of Technology, Kanpur",IIT-K ,5,PR,PREMP,100,85.89
+"Indian institute of Technology, Roorkee",IIT-R,6,TLR,SS,20,17.61
+"Indian institute of Technology, Roorkee",IIT-R,6,TLR,FSR,30,23.01
+"Indian institute of Technology, Roorkee",IIT-R,6,TLR,FQE,20,15.16
+"Indian institute of Technology, Roorkee",IIT-R,6,TLR,FRU,30,17.02
+"Indian institute of Technology, Roorkee",IIT-R,6,RP,PU,35,31.26
+"Indian institute of Technology, Roorkee",IIT-R,6,RP,QP,40,36.21
+"Indian institute of Technology, Roorkee",IIT-R,6,RP,IPR,15,0.5
+"Indian institute of Technology, Roorkee",IIT-R,6,RP,FPPP,10,4.1
+"Indian institute of Technology, Roorkee",IIT-R,6,GO,GPHE,40,35.36
+"Indian institute of Technology, Roorkee",IIT-R,6,GO,GUE,15,15
+"Indian institute of Technology, Roorkee",IIT-R,6,GO,MS,25,20.03
+"Indian institute of Technology, Roorkee",IIT-R,6,GO,GPHD,20,18.51
+"Indian institute of Technology, Roorkee",IIT-R,6,OI,RD,30,23.42
+"Indian institute of Technology, Roorkee",IIT-R,6,OI,WD,30,10.54
+"Indian institute of Technology, Roorkee",IIT-R,6,OI,ESCS,20,2.7
+"Indian institute of Technology, Roorkee",IIT-R,6,OI,PCS,20,20
+"Indian institute of Technology, Roorkee",IIT-R,6,PR,PREMP,100,56.63
+"Indian institute of Technology, Guwahati",IIT-G,7,TLR,SS,20,15.28
+"Indian institute of Technology, Guwahati",IIT-G,7,TLR,FSR,30,30
+"Indian institute of Technology, Guwahati",IIT-G,7,TLR,FQE,20,18.9
+"Indian institute of Technology, Guwahati",IIT-G,7,TLR,FRU,30,22.1
+"Indian institute of Technology, Guwahati",IIT-G,7,RP,PU,35,28.19
+"Indian institute of Technology, Guwahati",IIT-G,7,RP,QP,40,28.83
+"Indian institute of Technology, Guwahati",IIT-G,7,RP,IPR,15,0.5
+"Indian institute of Technology, Guwahati",IIT-G,7,RP,FPPP,10,4.02
+"Indian institute of Technology, Guwahati",IIT-G,7,GO,GPHE,40,27.84
+"Indian institute of Technology, Guwahati",IIT-G,7,GO,GUE,15,11.6
+"Indian institute of Technology, Guwahati",IIT-G,7,GO,MS,25,22.83
+"Indian institute of Technology, Guwahati",IIT-G,7,GO,GPHD,20,14.23
+"Indian institute of Technology, Guwahati",IIT-G,7,OI,RD,30,23.56
+"Indian institute of Technology, Guwahati",IIT-G,7,OI,WD,30,10.87
+"Indian institute of Technology, Guwahati",IIT-G,7,OI,ESCS,20,1.02
+"Indian institute of Technology, Guwahati",IIT-G,7,OI,PCS,20,15
+"Indian institute of Technology, Guwahati",IIT-G,7,PR,PREMP,100,45.49
+Anna University,AU,8,TLR,SS,20,18.01
+Anna University,AU,8,TLR,FSR,30,22.23
+Anna University,AU,8,TLR,FQE,20,12.93
+Anna University,AU,8,TLR,FRU,30,11.43
+Anna University,AU,8,RP,PU,35,30.03
+Anna University,AU,8,RP,QP,40,32.8
+Anna University,AU,8,RP,IPR,15,6
+Anna University,AU,8,RP,FPPP,10,3.26
+Anna University,AU,8,GO,GPHE,40,23.45
+Anna University,AU,8,GO,GUE,15,15
+Anna University,AU,8,GO,MS,25,14.57
+Anna University,AU,8,GO,GPHD,20,15.53
+Anna University,AU,8,OI,RD,30,1.21
+Anna University,AU,8,OI,WD,30,26.19
+Anna University,AU,8,OI,ESCS,20,4.9
+Anna University,AU,8,OI,PCS,20,20
+Anna University,AU,8,PR,PREMP,100,71.04
+"Indian institute of Technology, Hyderabad",IIT-H,9,TLR,SS,20,11.25
+"Indian institute of Technology, Hyderabad",IIT-H,9,TLR,FSR,30,30
+"Indian institute of Technology, Hyderabad",IIT-H,9,TLR,FQE,20,16.8
+"Indian institute of Technology, Hyderabad",IIT-H,9,TLR,FRU,30,22.58
+"Indian institute of Technology, Hyderabad",IIT-H,9,RP,PU,35,19.79
+"Indian institute of Technology, Hyderabad",IIT-H,9,RP,QP,40,15.02
+"Indian institute of Technology, Hyderabad",IIT-H,9,RP,IPR,15,4
+"Indian institute of Technology, Hyderabad",IIT-H,9,RP,FPPP,10,5.41
+"Indian institute of Technology, Hyderabad",IIT-H,9,GO,GPHE,40,34.1
+"Indian institute of Technology, Hyderabad",IIT-H,9,GO,GUE,15,15
+"Indian institute of Technology, Hyderabad",IIT-H,9,GO,MS,25,18.6
+"Indian institute of Technology, Hyderabad",IIT-H,9,GO,GPHD,20,3.33
+"Indian institute of Technology, Hyderabad",IIT-H,9,OI,RD,30,15.43
+"Indian institute of Technology, Hyderabad",IIT-H,9,OI,WD,30,13.71
+"Indian institute of Technology, Hyderabad",IIT-H,9,OI,ESCS,20,5.97
+"Indian institute of Technology, Hyderabad",IIT-H,9,OI,PCS,20,20
+"Indian institute of Technology, Hyderabad",IIT-H,9,PR,PREMP,100,36.91
+Institute of Chemical Technology,ICT,10,TLR,SS,20,10.21
+Institute of Chemical Technology,ICT,10,TLR,FSR,30,25.2
+Institute of Chemical Technology,ICT,10,TLR,FQE,20,16.07
+Institute of Chemical Technology,ICT,10,TLR,FRU,30,18.73
+Institute of Chemical Technology,ICT,10,RP,PU,35,19.74
+Institute of Chemical Technology,ICT,10,RP,QP,40,19.49
+Institute of Chemical Technology,ICT,10,RP,IPR,15,12
+Institute of Chemical Technology,ICT,10,RP,FPPP,10,7.28
+Institute of Chemical Technology,ICT,10,GO,GPHE,40,34.12
+Institute of Chemical Technology,ICT,10,GO,GUE,15,14.58
+Institute of Chemical Technology,ICT,10,GO,MS,25,15.23
+Institute of Chemical Technology,ICT,10,GO,GPHD,20,9.28
+Institute of Chemical Technology,ICT,10,OI,RD,30,3.59
+Institute of Chemical Technology,ICT,10,OI,WD,30,25.71
+Institute of Chemical Technology,ICT,10,OI,ESCS,20,4.13
+Institute of Chemical Technology,ICT,10,OI,PCS,20,20
+Institute of Chemical Technology,ICT,10,PR,PREMP,100,20.35
+"National Institute of Technology, Tiruchirappalli",NIT-T,11,TLR,SS,20,14.89
+"National Institute of Technology, Tiruchirappalli",NIT-T,11,TLR,FSR,30,22.22
+"National Institute of Technology, Tiruchirappalli",NIT-T,11,TLR,FQE,20,13.44
+"National Institute of Technology, Tiruchirappalli",NIT-T,11,TLR,FRU,30,15.94
+"National Institute of Technology, Tiruchirappalli",NIT-T,11,RP,PU,35,21.53
+"National Institute of Technology, Tiruchirappalli",NIT-T,11,RP,QP,40,22.72
+"National Institute of Technology, Tiruchirappalli",NIT-T,11,RP,IPR,15,0
+"National Institute of Technology, Tiruchirappalli",NIT-T,11,RP,FPPP,10,2.18
+"National Institute of Technology, Tiruchirappalli",NIT-T,11,GO,GPHE,40,30.54
+"National Institute of Technology, Tiruchirappalli",NIT-T,11,GO,GUE,15,15
+"National Institute of Technology, Tiruchirappalli",NIT-T,11,GO,MS,25,17.06
+"National Institute of Technology, Tiruchirappalli",NIT-T,11,GO,GPHD,20,9.42
+"National Institute of Technology, Tiruchirappalli",NIT-T,11,OI,RD,30,17.05
+"National Institute of Technology, Tiruchirappalli",NIT-T,11,OI,WD,30,19.61
+"National Institute of Technology, Tiruchirappalli",NIT-T,11,OI,ESCS,20,4.29
+"National Institute of Technology, Tiruchirappalli",NIT-T,11,OI,PCS,20,20
+"National Institute of Technology, Tiruchirappalli",NIT-T,11,PR,PREMP,100,59.69
