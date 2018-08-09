@@ -12,3 +12,119 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ## R Markdown
 
+```{r warning=FALSE, message=FALSE}
+library(dplyr)
+library(tidyr)
+library(ggplot2)
+
+```
+
+```{r warning=FALSE}
+apply_weights <- function (cat_scores, wt) {
+  new_vec <- merge(x=cat_scores, y=wt, by="Category", all=TRUE)
+  new_vec$wt_scores <- new_vec$total_count * new_vec$Weightage
+  sum(new_vec$wt_scores)
+}
+```
+
+```{r warning=FALSE}
+rec <- read.csv("Dataset/NIRF-Ranking-Data.csv")
+wt <- read.csv("Dataset/Category-Ranking.csv")
+
+ranked <- rec %>% 
+  group_by(Alt_Name, Overall_Rank, Category) %>% 
+  summarize(total_count = sum(Earned_Points))
+
+ranked$ToHighlight <- ifelse(ranked$Overall_Rank == 11, "yes", "no")
+ranked_df <- inner_join(ranked, wt, by="Category") %>% 
+  group_by(Alt_Name) %>%
+  summarise(rank_score = sum(total_count * Weightage)) %>%
+  arrange(desc(rank_score))
+
+p <- ggplot(ranked_df, aes(x=reorder(Alt_Name, -rank_score), y=rank_score)) + 
+  geom_bar(stat="identity", width=.75,  fill="tomato3") +
+  theme(axis.text.x = element_text(angle=90, hjust=1)) 
+
+p
+```
+
+
+```{r warning=FALSE}
+
+new <- inner_join(ranked, wt, by="Category")
+new$cat_score <- new$total_count * new$Weightage
+
+new$ToHighlight <- ifelse(new$Overall_Rank == 11, "yes", "no")
+#ranked_df <- inner_join(ranked, wt, by="Category") %>% 
+#  group_by(Alt_Name) %>%
+#  summarise(rank_score = sum(total_count * Weightage)) %>%
+#  arrange(desc(rank_score))
+
+p1 <- ggplot(new, aes(x=reorder(Alt_Name, -cat_score), y=cat_score, fill=Category)) +
+  geom_bar(stat = "identity") +
+  labs(x="", y="Category Score") +
+  scale_fill_brewer(palette = "Paired") +
+  theme_minimal()
+
+p1
+```
+
+```{r warning=FALSE}
+p_stacked <- ggplot(ranked, aes(x=reorder(Alt_Name, -Overall_Rank), y=total_count, fill=Category)) +
+  geom_bar(stat = "identity") +
+  labs(x="", y="Category Score") +
+  scale_fill_brewer(palette = "Paired") +
+  theme_minimal()
+
+p_stacked
+
+```
+
+
+```{r warning=FALSE}
+ggplot(ranked %>% filter(Category=="PR"), aes(x=reorder(Alt_Name, -total_count), y=total_count,  fill=ToHighlight)) + 
+  geom_bar(stat="identity", width=.75) +
+  labs(x="", y="Perception") +
+  theme(axis.text.x = element_text(angle=90, hjust=1)) +
+  scale_fill_manual(values=c("yes"="tomato", "no"="lightgreen"), guide=FALSE)
+
+```
+
+
+```{r warning=FALSE}
+ggplot(ranked %>% filter(Category=="OI"), aes(x=reorder(Alt_Name, -total_count), y=total_count,  fill=ToHighlight)) + 
+  geom_bar(stat="identity", width=.75) +
+  labs(x="", y="Outreach & Inclusivity") +
+  theme(axis.text.x = element_text(angle=90, hjust=1)) +
+  scale_fill_manual(values=c("yes"="tomato", "no"="blue"), guide=FALSE)
+
+```
+
+```{r warning=FALSE}
+ggplot(ranked %>% filter(Category=="GO"), aes(x=reorder(Alt_Name, -total_count), y=total_count,  fill=ToHighlight)) + 
+  geom_bar(stat="identity", width=.75) +
+  labs(x="", y="Graduation Outcomes") +
+  theme(axis.text.x = element_text(angle=90, hjust=1)) +
+  scale_fill_manual(values=c("yes"="tomato", "no"="lightblue"), guide=FALSE)
+
+```
+
+
+```{r warning=FALSE}
+ggplot(ranked %>% filter(Category=="RP"), aes(x=reorder(Alt_Name, -total_count), y=total_count,  fill=ToHighlight)) + 
+  geom_bar(stat="identity", width=.75) +
+  labs(x="", y="Research & Professional Practice") +
+  theme(axis.text.x = element_text(angle=90, hjust=1)) +
+  scale_fill_manual(values=c("yes"="tomato", "no"="darkgreen"), guide=FALSE)
+
+```
+
+
+```{r warning=FALSE}
+ggplot(ranked %>% filter(Category=="TLR"), aes(x=reorder(Alt_Name, -total_count), y=total_count,  fill=ToHighlight)) + 
+  geom_bar(stat="identity", width=.75) +
+  labs(x="", y="Teaching, Learning & Resources") +
+  theme(axis.text.x = element_text(angle=90, hjust=1)) +
+  scale_fill_manual(values=c("yes"="tomato", "no"="brown"), guide=FALSE)
+
+```

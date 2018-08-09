@@ -34,7 +34,7 @@ Institution_Name,Alt_Name,Overall_Rank,Category,Sub_Category,Total_Points,Earned
 "Indian institute of Technology, Bombay",IIT-B,2,OI,PCS,20,7
 "Indian institute of Technology, Bombay",IIT-B,2,PR,PREMP,100,93.48
 "Indian institute of Technology, Delhi",IIT-D,3,TLR,SS,20,17.21
-"Indian institute of Technology, Delhi",IIT-D,3,TLR,FSR,30,24.67
+"Indian institute of Technology, Delhi",IIT-D,3,TLR,FSR,30,24.37
 "Indian institute of Technology, Delhi",IIT-D,3,TLR,FQE,20,15.81
 "Indian institute of Technology, Delhi",IIT-D,3,TLR,FRU,30,23.44
 "Indian institute of Technology, Delhi",IIT-D,3,RP,PU,35,34.71
@@ -151,7 +151,7 @@ Anna University,AU,8,PR,PREMP,100,71.04
 "Indian institute of Technology, Hyderabad",IIT-H,9,OI,WD,30,13.71
 "Indian institute of Technology, Hyderabad",IIT-H,9,OI,ESCS,20,5.97
 "Indian institute of Technology, Hyderabad",IIT-H,9,OI,PCS,20,20
-"Indian institute of Technology, Hyderabad",IIT-H,9,PR,PREMP,100,36.91
+"Indian institute of Technology, Hyderabad",IIT-H,9,PR,PREMP,100,36.94
 Institute of Chemical Technology,ICT,10,TLR,SS,20,10.21
 Institute of Chemical Technology,ICT,10,TLR,FSR,30,25.2
 Institute of Chemical Technology,ICT,10,TLR,FQE,20,16.07
